@@ -1,3 +1,4 @@
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 # Aplicação de simulação de urna de votação usando servidor RMI
 Aplicativo para contagem de votos, implementado em Java.
 
